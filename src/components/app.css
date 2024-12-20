@@ -1,0 +1,52 @@
+.About{
+    background-color: rgb(158, 172, 187);
+}
+.about_head{
+    padding: 20px 10px;
+    font-weight: bold;
+}
+
+
+.About_btn{
+    background-color: blueviolet;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    margin-top: 60px;
+}
+.col-lg-5{
+    border-radius: 20px;
+    padding-bottom: 50px;
+}
+.Acc{
+    background-color: rgb(196, 255, 255);
+}
+footer{
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+}
+.footer_end{
+    border-top: 1px solid rgb(75, 69, 69);
+}
+.footer_end p{
+   margin-top: 16px;
+}
+.span{
+    color: rgb(84, 94, 94);
+}
+.para1{
+    color: rgb(84, 94, 94);
+      
+ border-right: 1px solid rgb(92, 76, 76);
+ height: 35px;  
+ margin-top: 16px; 
+ padding-right: 8px;     
+     
+       
+}
+.para2{
+    color: rgb(84, 94, 94);
+ margin-top: 16px;      
+
+}
