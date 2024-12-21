@@ -5,7 +5,7 @@ function Accesories() {
     <div> 
         <div className="Acc d-flex">
             <h1>Accesories</h1>
-            <h4 className='ms-auto me-5 mt-3'>About</h4>
+            <h4 className='ms-auto me-5 mt-3'> About</h4>
              <h5 className='me-3 mt-3'>Smart Wearable</h5>
         </div>
           

@@ -41,10 +41,10 @@ function Footer() {
                     <h5>04238018</h5>
                     <p> 09:30 - 18:00, MON - SAT</p>
                     <p>Exclude Holidays </p>
-                    <i className="fa-brands fa-facebook fa-2xl pe-3 pt-1" style={{ color: 'rgb(112, 120, 129)' }}></i>
-                    <i className="fa-brands fa-x-twitter fa-2xl pe-3 pt-1" style={{color: 'rgb(112, 120, 129)'}}></i>
-                    <i className="fa-brands fa-youtube fa-2xl pe-3 pt-1" style={{color:'rgb(112, 120, 129)'}}></i>
-                    <i className="fa-brands fa-instagram fa-2xl pe-3 pt-1" style={{color:'rgb(112, 120, 129)'}}></i>
+                    <a href="https://www.facebook.com/"><i className="fa-brands fa-facebook fa-2xl pe-3 pt-1" style={{ color: 'rgb(112, 120, 129)' }}></i></a>
+                   <a href="https://www.twitter.com/"><i className="fa-brands fa-x-twitter fa-2xl pe-3 pt-1" style={{color: 'rgb(112, 120, 129)'}}></i></a>
+                     <a href="https://www.youtube.com/"> <i className="fa-brands fa-youtube fa-2xl pe-3 pt-1" style={{color:'rgb(112, 120, 129)'}}></i></a>
+                   <a href="https://www.instagram.com/"> <i className="fa-brands fa-instagram fa-2xl pe-3 pt-1" style={{color:'rgb(112, 120, 129)'}}></i></a>
                 </div>
             </div>
             <div className="footer_end">
